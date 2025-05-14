@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![N|Solid](https://github.com/mitchas/glass-browser/raw/master/assets/icon64.png)
 # **Glass Browser**
 ### [Downloads](https://github.com/mitchas/glass-browser/tree/master/releases)
@@ -31,3 +32,7 @@ A floating transparent browser for Windows.
 
 ## Known Issues
 - Transparency seems to not be working on Linux - but it still floats above other windows.
+=======
+# transparent-broswer
+a transparent、shortcut-hiding broswer coded by electron
+>>>>>>> 9228bc129a0316da7ff17a3822b9d394d6547fcc
